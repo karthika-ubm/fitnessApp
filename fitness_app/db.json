@@ -1,0 +1,1259 @@
+[
+  {
+    "id": "0001",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0001.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "3/4 sit-up",
+    "target": "abs"
+  },
+  {
+    "id": "0002",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0002.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "45° side bend",
+    "target": "abs"
+  },
+  {
+    "id": "0003",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0003.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "air bike",
+    "target": "abs"
+  },
+  {
+    "id": "0004",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0004.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "alternate heel touchers",
+    "target": "abs"
+  },
+  {
+    "id": "0005",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0005.gif",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "name": "alternate lateral pulldown",
+    "target": "lats"
+  },
+  {
+    "id": "0006",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0006.gif",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "name": "assisted chest dip (kneeling)",
+    "target": "pectorals"
+  },
+  {
+    "id": "0007",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0007.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted hanging knee raise with throw down",
+    "target": "abs"
+  },
+  {
+    "id": "0008",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0008.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted hanging knee raise",
+    "target": "abs"
+  },
+  {
+    "id": "0009",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0009.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted lying leg raise with lateral throw down",
+    "target": "abs"
+  },
+  {
+    "id": "0010",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0010.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted lying leg raise with throw down",
+    "target": "abs"
+  },
+  {
+    "id": "0011",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0011.gif",
+    "bodyPart": "waist",
+    "equipment": "medicine ball",
+    "name": "assisted motion russian twist",
+    "target": "abs"
+  },
+  {
+    "id": "0012",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0012.gif",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "name": "assisted parallel close grip pull-up",
+    "target": "lats"
+  },
+  {
+    "id": "0013",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0013.gif",
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "name": "assisted prone hamstring",
+    "target": "hamstrings"
+  },
+  {
+    "id": "0014",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0014.gif",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "name": "assisted pull-up",
+    "target": "lats"
+  },
+  {
+    "id": "0015",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0015.gif",
+    "bodyPart": "upper arms",
+    "equipment": "assisted",
+    "name": "assisted standing triceps extension (with towel)",
+    "target": "triceps"
+  },
+  {
+    "id": "0016",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0016.gif",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "name": "assisted triceps dip (kneeling)",
+    "target": "triceps"
+  },
+  {
+    "id": "0017",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0017.gif",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "name": "balance board",
+    "target": "quads"
+  },
+  {
+    "id": "0018",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0018.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell pullover to press",
+    "target": "lats"
+  },
+  {
+    "id": "0019",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0019.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell alternate biceps curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0020",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0020.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell bench front squat",
+    "target": "quads"
+  },
+  {
+    "id": "0021",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0021.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell bench press",
+    "target": "pectorals"
+  },
+  {
+    "id": "0022",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0022.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell bench squat",
+    "target": "quads"
+  },
+  {
+    "id": "0023",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0023.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell bent over row",
+    "target": "upper back"
+  },
+  {
+    "id": "0024",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0024.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell clean and press",
+    "target": "quads"
+  },
+  {
+    "id": "0025",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0025.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell clean-grip front squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0026",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0026.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell close-grip bench press",
+    "target": "triceps"
+  },
+  {
+    "id": "0027",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0027.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0028",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0028.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell deadlift",
+    "target": "glutes"
+  },
+  {
+    "id": "0029",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0029.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell decline bench press",
+    "target": "pectorals"
+  },
+  {
+    "id": "0030",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0030.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell decline bent arm pullover",
+    "target": "lats"
+  },
+  {
+    "id": "0031",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0031.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell decline close grip to skull press",
+    "target": "triceps"
+  },
+  {
+    "id": "0032",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0032.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell decline wide-grip press",
+    "target": "pectorals"
+  },
+  {
+    "id": "0033",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0033.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell decline wide-grip pullover",
+    "target": "lats"
+  },
+  {
+    "id": "0034",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0034.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell drag curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0035",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0035.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell front chest squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0036",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0036.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell front raise and pullover",
+    "target": "pectorals"
+  },
+  {
+    "id": "0037",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0037.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell front raise",
+    "target": "delts"
+  },
+  {
+    "id": "0038",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0038.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell front squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0039",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0039.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell full squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0040",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0040.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell good morning",
+    "target": "hamstrings"
+  },
+  {
+    "id": "0041",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0041.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell guillotine bench press",
+    "target": "pectorals"
+  },
+  {
+    "id": "0042",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0042.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell hack squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0043",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0043.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell incline bench press",
+    "target": "pectorals"
+  },
+  {
+    "id": "0044",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0044.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell incline reverse-grip press",
+    "target": "triceps"
+  },
+  {
+    "id": "0045",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0045.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell incline row",
+    "target": "upper back"
+  },
+  {
+    "id": "0046",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0046.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell incline shoulder raise",
+    "target": "serratus anterior"
+  },
+  {
+    "id": "0047",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0047.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell jefferson squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0048",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0048.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell jm bench press",
+    "target": "triceps"
+  },
+  {
+    "id": "0049",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0049.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell jump squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0050",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0050.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell lunge",
+    "target": "glutes"
+  },
+  {
+    "id": "0051",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0051.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell lying close-grip press",
+    "target": "triceps"
+  },
+  {
+    "id": "0052",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0052.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell lying close-grip triceps extension",
+    "target": "triceps"
+  },
+  {
+    "id": "0053",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0053.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell lying extension",
+    "target": "triceps"
+  },
+  {
+    "id": "0054",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0054.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell lying lifting (on hip)",
+    "target": "glutes"
+  },
+  {
+    "id": "0055",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0055.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell lying preacher curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0056",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0056.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell lying triceps extension skull crusher",
+    "target": "triceps"
+  },
+  {
+    "id": "0057",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0057.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell lying triceps extension",
+    "target": "triceps"
+  },
+  {
+    "id": "0058",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0058.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell narrow stance squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0059",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0059.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell one arm bent over row",
+    "target": "upper back"
+  },
+  {
+    "id": "0060",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0060.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell one arm floor press",
+    "target": "triceps"
+  },
+  {
+    "id": "0061",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0061.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell one arm side deadlift",
+    "target": "glutes"
+  },
+  {
+    "id": "0062",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0062.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell one arm snatch",
+    "target": "delts"
+  },
+  {
+    "id": "0063",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0063.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell one leg squat",
+    "target": "quads"
+  },
+  {
+    "id": "0064",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0064.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell overhead squat",
+    "target": "quads"
+  },
+  {
+    "id": "0065",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0065.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell preacher curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0066",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0066.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell press sit-up",
+    "target": "abs"
+  },
+  {
+    "id": "0067",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0067.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell prone incline curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0068",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0068.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell pullover",
+    "target": "lats"
+  },
+  {
+    "id": "0069",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0069.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell rack pull",
+    "target": "glutes"
+  },
+  {
+    "id": "0070",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0070.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell rear delt raise",
+    "target": "delts"
+  },
+  {
+    "id": "0071",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0071.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell rear delt row",
+    "target": "delts"
+  },
+  {
+    "id": "0072",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0072.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell rear lunge v. 2",
+    "target": "glutes"
+  },
+  {
+    "id": "0073",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0073.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell rear lunge",
+    "target": "glutes"
+  },
+  {
+    "id": "0074",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0074.gif",
+    "bodyPart": "lower arms",
+    "equipment": "barbell",
+    "name": "barbell revers wrist curl v. 2",
+    "target": "forearms"
+  },
+  {
+    "id": "0075",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0075.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell reverse curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0076",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0076.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell reverse preacher curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0077",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0077.gif",
+    "bodyPart": "lower arms",
+    "equipment": "barbell",
+    "name": "barbell reverse wrist curl",
+    "target": "forearms"
+  },
+  {
+    "id": "0078",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0078.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell rollerout from bench",
+    "target": "abs"
+  },
+  {
+    "id": "0079",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0079.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell rollerout",
+    "target": "abs"
+  },
+  {
+    "id": "0080",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0080.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell romanian deadlift",
+    "target": "glutes"
+  },
+  {
+    "id": "0081",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0081.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell seated behind head military press",
+    "target": "delts"
+  },
+  {
+    "id": "0082",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0082.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell seated bradford rocky press",
+    "target": "delts"
+  },
+  {
+    "id": "0083",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0083.gif",
+    "bodyPart": "lower legs",
+    "equipment": "barbell",
+    "name": "barbell seated calf raise",
+    "target": "calves"
+  },
+  {
+    "id": "0084",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0084.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell seated close-grip concentration curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0085",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0085.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell seated good morning",
+    "target": "glutes"
+  },
+  {
+    "id": "0086",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0086.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell seated overhead press",
+    "target": "delts"
+  },
+  {
+    "id": "0087",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0087.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell seated overhead triceps extension",
+    "target": "triceps"
+  },
+  {
+    "id": "0088",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0088.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell seated twist",
+    "target": "abs"
+  },
+  {
+    "id": "0089",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0089.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell shrug",
+    "target": "traps"
+  },
+  {
+    "id": "0090",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0090.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell side bent v. 2",
+    "target": "abs"
+  },
+  {
+    "id": "0091",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0091.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell side split squat v. 2",
+    "target": "quads"
+  },
+  {
+    "id": "0092",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0092.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell side split squat",
+    "target": "quads"
+  },
+  {
+    "id": "0093",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0093.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell single leg split squat",
+    "target": "quads"
+  },
+  {
+    "id": "0094",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0094.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell skier",
+    "target": "delts"
+  },
+  {
+    "id": "0095",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0095.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell speed squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0096",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0096.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell squat (on knees)",
+    "target": "quads"
+  },
+  {
+    "id": "0097",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0097.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell standing ab rollerout",
+    "target": "abs"
+  },
+  {
+    "id": "0098",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0098.gif",
+    "bodyPart": "lower arms",
+    "equipment": "barbell",
+    "name": "barbell standing back wrist curl",
+    "target": "forearms"
+  },
+  {
+    "id": "0099",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0099.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell standing bradford press",
+    "target": "delts"
+  },
+  {
+    "id": "0100",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0100.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell standing close grip curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0101",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0101.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell standing front raise over head",
+    "target": "delts"
+  },
+  {
+    "id": "0102",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0102.gif",
+    "bodyPart": "lower legs",
+    "equipment": "barbell",
+    "name": "barbell standing leg calf raise",
+    "target": "calves"
+  },
+  {
+    "id": "0103",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0103.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell standing overhead triceps extension",
+    "target": "triceps"
+  },
+  {
+    "id": "0104",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0104.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell standing reverse grip curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0105",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0105.gif",
+    "bodyPart": "lower legs",
+    "equipment": "barbell",
+    "name": "barbell standing rocking leg calf raise",
+    "target": "calves"
+  },
+  {
+    "id": "0106",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0106.gif",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "name": "barbell standing twist",
+    "target": "abs"
+  },
+  {
+    "id": "0107",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0107.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell standing wide-grip curl",
+    "target": "biceps"
+  },
+  {
+    "id": "0108",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0108.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell step-up",
+    "target": "glutes"
+  },
+  {
+    "id": "0109",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0109.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell stiff leg good morning",
+    "target": "glutes"
+  },
+  {
+    "id": "0110",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0110.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell straight leg deadlift",
+    "target": "hamstrings"
+  },
+  {
+    "id": "0111",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0111.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell sumo deadlift",
+    "target": "glutes"
+  },
+  {
+    "id": "0112",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0112.gif",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "name": "barbell reverse grip bent over row",
+    "target": "upper back"
+  },
+  {
+    "id": "0113",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0113.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell upright row v. 2",
+    "target": "delts"
+  },
+  {
+    "id": "0114",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0114.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell upright row",
+    "target": "delts"
+  },
+  {
+    "id": "0115",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0115.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell upright row v. 3",
+    "target": "delts"
+  },
+  {
+    "id": "0116",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0116.gif",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "name": "barbell wide bench press",
+    "target": "pectorals"
+  },
+  {
+    "id": "0117",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0117.gif",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "name": "barbell wide-grip upright row",
+    "target": "delts"
+  },
+  {
+    "id": "0118",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0118.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell wide squat",
+    "target": "quads"
+  },
+  {
+    "id": "0119",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0119.gif",
+    "bodyPart": "lower arms",
+    "equipment": "barbell",
+    "name": "barbell wrist curl v. 2",
+    "target": "forearms"
+  },
+  {
+    "id": "0120",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0120.gif",
+    "bodyPart": "lower arms",
+    "equipment": "barbell",
+    "name": "barbell wrist curl",
+    "target": "forearms"
+  },
+  {
+    "id": "0121",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0121.gif",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "name": "barbell zercher squat",
+    "target": "glutes"
+  },
+  {
+    "id": "0122",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0122.gif",
+    "bodyPart": "shoulders",
+    "equipment": "rope",
+    "name": "battling ropes",
+    "target": "delts"
+  },
+  {
+    "id": "0123",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0123.gif",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "name": "bench dip (knees bent)",
+    "target": "triceps"
+  },
+  {
+    "id": "0124",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0124.gif",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "name": "bench hip extension",
+    "target": "glutes"
+  },
+  {
+    "id": "0125",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0125.gif",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "name": "body-up",
+    "target": "triceps"
+  },
+
+  {
+    "id": "1002",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1002.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell one arm standing hammer curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1003",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1003.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell one arm zottman preacher curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1004",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1004.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell preacher curl over exercise ball",
+    "target": "biceps"
+  },
+  {
+    "id": "1005",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1005.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell prone incline hammer curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1006",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1006.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell reverse spider curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1007",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1007.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell seated alternate hammer curl on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "id": "1008",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1008.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell seated bicep curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1009",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1009.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell seated hammer curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1010",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1010.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell seated one arm bicep curl on exercise ball with leg raised",
+    "target": "biceps"
+  },
+  {
+    "id": "1011",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1011.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell standing one arm curl over incline bench",
+    "target": "biceps"
+  },
+  {
+    "id": "1012",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1012.gif",
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "name": "ez bar seated close grip concentration curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1013",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1013.gif",
+    "bodyPart": "upper arms",
+    "equipment": "smith machine",
+    "name": "smith machine bicep curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1014",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1014.gif",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "name": "dumbbell step up single leg balance with bicep curl",
+    "target": "biceps"
+  },
+  {
+    "id": "1015",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1015.gif",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "name": "squat to overhead reach",
+    "target": "quads"
+  },
+  {
+    "id": "1016",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1016.gif",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "name": "squat to overhead reach with twist",
+    "target": "quads"
+  },
+  {
+    "id": "1017",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1017.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "posterior step to overhead reach",
+    "target": "abs"
+  },
+  {
+    "id": "1018",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1018.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "lunge with twist",
+    "target": "abs"
+  },
+  {
+    "id": "1019",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1019.gif",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "name": "push and pull bodyweight",
+    "target": "pectorals"
+  },
+  {
+    "id": "1020",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1020.gif",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "name": "dumbbell push press",
+    "target": "delts"
+  },
+  {
+    "id": "1021",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1021.gif",
+    "bodyPart": "upper arms",
+    "equipment": "medicine ball",
+    "name": "medicine ball close grip push up",
+    "target": "triceps"
+  },
+  {
+    "id": "1022",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1022.gif",
+    "bodyPart": "upper legs",
+    "equipment": "bosu ball",
+    "name": "squat on bosu ball",
+    "target": "quads"
+  },
+  {
+    "id": "1023",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1023.gif",
+    "bodyPart": "waist",
+    "equipment": "stability ball",
+    "name": "prone twist on stability ball",
+    "target": "abs"
+  },
+  {
+    "id": "1024",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1024.gif",
+    "bodyPart": "lower legs",
+    "equipment": "assisted",
+    "name": "assisted lying calves stretch",
+    "target": "calves"
+  },
+  {
+    "id": "1025",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1025.gif",
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "name": "assisted lying glutes stretch",
+    "target": "glutes"
+  },
+  {
+    "id": "1026",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1026.gif",
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "name": "assisted lying gluteus and piriformis stretch",
+    "target": "glutes"
+  },
+  {
+    "id": "1027",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1027.gif",
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "name": "assisted side lying adductor stretch",
+    "target": "adductors"
+  },
+  {
+    "id": "1028",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1028.gif",
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "name": "assisted prone lying quads stretch",
+    "target": "quads"
+  },
+  {
+    "id": "1029",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1029.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted prone rectus femoris stretch",
+    "target": "abs"
+  },
+  {
+    "id": "1030",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1030.gif",
+    "bodyPart": "chest",
+    "equipment": "assisted",
+    "name": "assisted seated pectoralis major stretch with stability ball",
+    "target": "pectorals"
+  },
+  {
+    "id": "1031",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1031.gif",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "name": "cable squat row (with rope attachment)",
+    "target": "lats"
+  },
+  {
+    "id": "1032",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1032.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell seated close grip behind neck triceps extension",
+    "target": "triceps"
+  },
+  {
+    "id": "1033",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_1033.gif",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "name": "barbell incline close grip bench press",
+    "target": "triceps"
+  }
+]
